@@ -3,7 +3,7 @@
 ###########################################
 
 # set your working directory 
-setwd("C:/Users/agdad/Desktop")
+setwd("C:/Users/agdad/Desktop/HackBio/stage2")
 
 # load the glioblastoma dataset
 gbm <- read.csv(file = 'glioblastoma.csv', header = TRUE, row.names = 1)
