@@ -78,7 +78,7 @@ heatmap.2(as.matrix(gbm),
 # 2.subset genes that are significantly up- and down-regulated ####
 # first 5 samples (02) are recurrent tumors, last 5 samples (01) are primary tumors
 # PCA plot for confirmation 
-# change names of the samples in a duplicated df for simplicity
+# change names of the samples in a duplicated df for simplicity (sample names are too long to view on the PCA plot)
 gbm_copy <- gbm
 colnames(gbm_copy) <- c("02A_1","02A_2","02A_3","02A_4","02A_5","01A_1","01A_2","01B_3","01A_4","01A_5")
 
