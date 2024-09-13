@@ -118,5 +118,5 @@ up_genes@rownames # list of upregulated genes
 down_genes <- res[which(res$padj < 0.05 & res$log2FoldChange < -1), ]
 down_genes@rownames # list of downregulated genes 
 
-background <- as.factor(res@rownames) # list of background genes
-background
+background <- as.factor(res@rownames) 
+background # list of background genes
