@@ -42,7 +42,7 @@ We performed a functional enrichment analysis of these deregulated genes to iden
 
 2\.  The CXCR Chemokine Receptor Binding pathway involves G-protein coupled receptors that respond to specific molecules such as chemokines to regulate immune cell function \[1].
 
-3\.  The MEISSER BRAIN HCP WITH H3K27ME3 pathway involves genes with H3K27 trimethylation marks in the brain \[3].
+3\.  The MEISSER BRAIN HCP WITH H3K27ME3 pathway involves genes with H3K27 trimethylation marks in the brain \[2].
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXecPAthq7Ur3knd27i_41tSaT16vAyBgR9shZJJYg5R88pE9Oa4TuSEJxgAVEFkOYYI5rgfEyDuQ1v7vIE5Pj6YakqW_DRyIxaavnC5ppUOrHuhwUrtB_NwkxoBjzxNwt7EboXHq5PqbtTmS_IYDcjK81fh?key=zicOZvtXSkbx22_fpayXbg)
 
