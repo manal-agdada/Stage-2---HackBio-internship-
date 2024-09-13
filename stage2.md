@@ -5,7 +5,7 @@
 
 Authors (@slack): Manal Agdada (@Manal), Pascal Onaho (@PascalOnaho), Rahma Nabil Sallam (@rahmanabil2002), Hagar Haitham Elazab (@HBONH33), Salma ismail (@[Salmaismail28](https://hackbiointern-leo4437.slack.com/team/U07K2FNRY4A)), Idahosa Clinton (@doc\_Idahosa), YaraHaitham (@YaraHaitham), Izuchukwu Obilom (@Zucchini)
 
-Github Repo: https\://github.com/manal-agdada/Stage-2---HackBio-internship
+Github Repo: <https://github.com/manal-agdada/Stage-2---HackBio-internship-/blob/main/stage2.md>
 
 Github code link: <https://github.com/manal-agdada/Stage-2---HackBio-internship-/blob/main/stage2.R>
 
@@ -59,8 +59,6 @@ This analysis revealed key pathways linked to gene expression in glioblastoma. T
 1\. García-Cuesta EM, Santiago CA, Vallejo-Díaz J, Juarranz Y, Rodríguez-Frade JM, Mellado M. **The Role of the CXCL12/CXCR4/ACKR3 Axis in Autoimmune Diseases**. Front Endocrinol (Lausanne). 2019 Aug 27;10:585.
 
 2\. Meissner A, Mikkelsen TS, Gu H, Wernig M, Hanna J, Sivachenko A, Zhang X, Bernstein BE, Nusbaum C, Jaffe DB, Gnirke A, Jaenisch R, Lander ES. **Genome-scale DNA methylation maps of pluripotent and differentiated cells**. Nature. 2008 Aug 7;454(7205):766-70. 
-
-\
 
 
 <!--EndFragment-->
