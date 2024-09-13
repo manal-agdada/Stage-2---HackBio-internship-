@@ -3,7 +3,7 @@
 
 ### **Gene Expression Analysis of a Glioblastoma dataset**
 
-Authors (@slack): Manal Agdada (@Manal), Pascal Onaho (@PascalOnaho), Rahma Nabil Sallam (@rahmanabil2002), Hagar Haitham Elazab (@HBONH33), Salma ismail (@[Salmaismail28](https://hackbiointern-leo4437.slack.com/team/U07K2FNRY4A)), Idahosa Clinton (@doc\_Idahosa), YaraHaitham (@YaraHaitham), Izuchukwu Obilom (@Zucchini)
+Authors (@slack): Manal Agdada (@Manal), Pascal Onaho (@PascalOnaho), Rahma Nabil Sallam (@rahmanabil2002), Hagar Haitham Elazab (@HBONH33), Salma ismail (@Salmaismail28), Idahosa Clinton (@doc\_Idahosa), YaraHaitham (@YaraHaitham), Izuchukwu Obilom (@Zucchini)
 
 Github Repo: <https://github.com/manal-agdada/Stage-2---HackBio-internship-/blob/main/stage2.md>
 
