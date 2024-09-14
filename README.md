@@ -12,6 +12,7 @@ R studio 4.4.0
 
 ShinyGO http://bioinformatics.sdstate.edu/go/
 
+
 This study analyzes and visualizes a gene expression dataset through heatmaps and functional enrichment analysis to explore patterns in differentially expressed genes and their biological significance. The dataset chosen comprises the top 500+ differentially expressed genes in glioblastoma under different conditions.
 
 ## Heatmap generation
