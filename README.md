@@ -4,6 +4,8 @@ Authors (@slack): Manal Agdada (@Manal), Pascal Onaho (@PascalOnaho), Rahma Nabi
 
 Github Repo: https://github.com/manal-agdada/Stage-2---HackBio-internship-
 
+Code link: https://github.com/manal-agdada/Stage-2---HackBio-internship-/blob/main/stage2.R
+
 ## Software used for analysis
 
 R studio 4.4.0
