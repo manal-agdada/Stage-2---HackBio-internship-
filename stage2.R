@@ -84,8 +84,8 @@ group1_gbm <- gbm[, group1]
 group2_gbm <- gbm[, group2]
 
 # means of the two groups
-group1_mean <- rowMeans(group1_gbm)
-group2_mean <- rowMeans(group2_gbm)
+group1_mean <- rowMeans(group1_gbm) + 1 
+group2_mean <- rowMeans(group2_gbm) + 1
 
 # fold change 
 gbm$log2fold_change <- log2(group2_mean) - log2(group1_mean)
