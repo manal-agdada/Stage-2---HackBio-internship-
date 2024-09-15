@@ -33,7 +33,8 @@ We generated heatmaps for the dataset using the `heatmap.2()` function from the 
 
 ## Identification of up- and down-regulated genes
 
-Careful assessment of the clustered heatmaps revealed similarities among samples categorized as “02A” and those labeled “01A” or “01B”, identifying two distinct groups of five similar samples each. Then, we calculated the fold change and relative p-values between them. Visualizing the p-values against the fold change helped justify the selection of cutoffs for subsequent gene subsetting, distinguishing up- and down-regulated genes in the dataset (Figure 3). The chosen cutoffs led to the identification of 57 up-regulated genes and 100 down-regulated genes.
+Careful assessment of the clustered heatmaps revealed similarities among samples categorized as “02A” and those labeled “01A” or “01B”, identifying two distinct groups of five similar samples each. To quantify the differences between these two groups, we calculated the fold change for each gene by first computing the mean expression values for each group and adding a costant (1) to each mean to avoid issues with zero or near-zero values. The log2(fold change) was then determined using the formula `log2(group2_mean) - log2(group1_mean)`.
+Then, we calculated the fold change and relative p-values between them. Visualizing the p-values against the fold change helped justify the selection of cutoffs for subsequent gene subsetting, distinguishing up- and down-regulated genes in the dataset (Figure 3). The chosen cutoffs led to the identification of 57 up-regulated genes and 100 down-regulated genes.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeMBUmRHen7DNhRQgGtpvTjT5eQSaqWA1dLscp99p6odWZPBUrBqnZdOzbBbtWk95FXo5K5OjCG7YbCao0c46NLh_iLGdO6sgrUurOH0YkDIT7_snzIqaaaeNAxN92sT_dDd0zANwVc1gj7CVqshshwraY5?key=zicOZvtXSkbx22_fpayXbg)
 
